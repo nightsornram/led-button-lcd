@@ -1,5 +1,7 @@
 # led-button-lcd
 
+**ต้องกดปุ่มค้างเอาไว้ประมาณ 1 วิ**
+
 LCD :
 GND >> GND , VCC >> VBUS , SDA >> GPO , SCL >> GP1
 
